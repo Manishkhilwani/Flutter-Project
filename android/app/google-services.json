@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969492236995",
+    "project_id": "logical-craft-335315",
+    "storage_bucket": "logical-craft-335315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969492236995:android:57d9bceb2d1f0260ba3076",
+        "android_client_info": {
+          "package_name": "com.example.office"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969492236995-j7ouhp32co3tno5mkkk366s1t30ga8qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13eS39GTk7_xzY9_xTRNTc9icdOnZePM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969492236995-j7ouhp32co3tno5mkkk366s1t30ga8qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
